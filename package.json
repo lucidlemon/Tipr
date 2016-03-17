@@ -18,8 +18,8 @@
   "maintainers": [
     {
       "email": "d.kreide@gmail.com",
-      "name": "Daniel Winter",
-    },
+      "name": "Daniel Winter"
+    }
   ],
   "name": "tipr",
   "optionalDependencies": {},
